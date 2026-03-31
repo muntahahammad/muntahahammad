@@ -1,8 +1,7 @@
 ## Hi there 👋
 <div align="center">
   <h1>Hi there 👋, I am [Muntaha Hammad]</h1>
-  <img src="https://path-to-your-illustration.png" width="300" />
-</div>
+ 
 
 ### Portfolio 🌐
 Software Engineering | Artificial Intelligence
